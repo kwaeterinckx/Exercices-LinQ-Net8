@@ -9,6 +9,8 @@ namespace ExerciceDeLinq
             DataContext dc = new DataContext();
 
             #region Faites vos exos ici
+            
+
 
             #endregion
 
